@@ -1,7 +1,7 @@
 {
   "name": "hubot-spongebob-mock",
   "description": "Changes the text you provide to be in the format of the spongebob mocking meme.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Brian King <sparksterz@github.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, sponge, bob, spongebob, mock, meme",

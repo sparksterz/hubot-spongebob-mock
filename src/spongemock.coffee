@@ -1,5 +1,5 @@
 # Description:
-#   spongemock will change your typed text iNto SOmeThIng lIkE tHIs
+#   spongemock will change the trailing text iNto SOmeThIng lIkE tHIs
 #
 # Dependencies:
 #   None
@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot spongemock - pastes in a random table flip gif
+#   hubot spongemock - will change the trailing text iNto SOmeThIng lIkE tHIs
 
 tweak = (letter) ->
   if Math.random() < 0.5 then letter.toLowerCase() else letter.toUpperCase();
